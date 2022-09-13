@@ -1,2 +1,1 @@
-# angular-alura-controle-fluxo
-angular-alura-controle-fluxo
+# angular_2_curso
